@@ -1,0 +1,8 @@
+App/
+Library/
+Temp/
+UWP/
+obj/
+.vs/
+*.csproj
+*.sln

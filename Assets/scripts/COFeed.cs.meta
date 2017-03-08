@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ae8678cd1446a47d5baceb90d78e04cc
+timeCreated: 1485434840
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - content: {instanceID: 0}
+  - livefeedItemPrefab: {fileID: 100000, guid: a333f6d9194524757b29536ef41b1227, type: 2}
+  - feedtemplate: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
